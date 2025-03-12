@@ -22,6 +22,7 @@ Some playing around with different ideas &amp; technologies regarding the projec
 - [chill kernel hacking for fun](https://www.youtube.com/watch?v=YcmwsJU1S0E)
 - [90 days of making my own operating system](https://www.youtube.com/watch?v=kJhs4nlpRiY)
 - [Building a Operating System](https://www.youtube.com/watch?v=hti0h_WAkog)
+- nanobyte: Building an [OS](https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN) / [Bootloader](https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpjWYxnihhd4P3G0BhMB9ReG)
 
 ## QEMU
 As a basic, local "machine" for running and testing code before moving to any "real" metal (e.g. RPi, RISC-V controller, etc.). Installing on macOS: 
